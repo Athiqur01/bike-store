@@ -1,3 +1,9 @@
+ Features of Bike-store: 
+ --> This back-end project serves functionality with post, update and delete bike and order data. 
+ --> It also count total revenue from orders.
+ --> Technology uses in this project are typescript, node.js, express.js, mongodb and mongoss. 
+
+Setup steps:
  The steps are to set the project locally: 
 1. Prerequisites
 Ensure the following are installed on your system:
@@ -7,7 +13,7 @@ Ensure the following are installed on your system:
 3.MongoDB (local instance or a remote cluster)
 
 2. Clone the Repository from github
-git clone <repository-url>
+git clone https://github.com/Athiqur01/bike-store.git
 cd bike-store
 
 3. Install Dependencies
